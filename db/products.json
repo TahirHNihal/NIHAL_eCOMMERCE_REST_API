@@ -1,0 +1,15 @@
+[
+  {
+    "id": "403235537",
+    "name": "INTEL 12TH GEN CORE I5-12400 ALDER LAKE PROCESSOR",
+    "regPrice": "23870",
+    "salePrice": "22400",
+    "stock": "10",
+    "longDes": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum, deserunt.",
+    "shortDes": "Lorem ipsum dolor sit amet, consec.",
+    "tag": "Pant",
+    "category": "Electrics",
+    "slug": "intel_12th_gen_core_i5-12400_alder_lake_processor",
+    "productImages": ["25140412_i5-12600k-01-500x500-1.jpg"]
+  }
+]
